@@ -113,3 +113,7 @@ purpose:
     label: Contact me
 url: 'https://krgoodri.ch'
 github: true
+author:
+  name: Kevin Goodrich
+  email: i.am@krgoodri.ch
+  url: 'https://krgoodri.ch'
