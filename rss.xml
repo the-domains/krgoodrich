@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[krgoodri.ch]]></title>
+        <description><![CDATA[krgoodri.ch]]></description>
+        <link>http://krgoodri.ch/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 20 Mar 2017 23:43:45 GMT</lastBuildDate>
+        <atom:link href="http://krgoodri.ch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>CODE</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtjzFrAzEMhff-Cm3nA-NrlmvBcYZA10zZjqMYWzEuOTu1FExo-t_razJJD733PbQlV-KFdy8A4nRNjmNOIKqM0ssgUbKkHn7q5GcwsI77fZo1G4jKFbSMH2dcMLEIvW4MAFaWbsmZjWZFxRnUZKIKyE8j7W9HGw52wRaZXmdN6mJLOxyyRxUTYeE9nnJBwRLon_rbixqTz1WCz-66YiR0n4Hcdye7xwdtGYYafWuitY4io8uJSz4rl5fhbXwfx-HhVV_UNfD2KXd_YOpXfQ" height="244"></iframe>,<p>CODE</p>]]></description>
+            <link>http://krgoodri.ch/code/index.html</link>
+            <guid isPermaLink="false">ca499dc5-1c2a-4740-86e4-d0f64533436d</guid>
+            <pubDate>Mon, 20 Mar 2017 23:41:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
